@@ -1,0 +1,106 @@
+﻿using System;
+
+namespace ShiningForceLeveler
+{
+    class Program: Character
+    {
+        static void Main(string[] args)
+        {
+            
+            string selection;
+            
+            Max max = new Max();
+            max.unpro = true;
+            if (max.unpro == true)
+            {
+                max.characterClass = max.charaun;
+            }
+            else
+            {
+                max.characterClass = max.charapro;
+            }
+            
+
+            Console.WriteLine($"Input NAME \n Tao\n Max\n Ken\n Mae\n Zylo");
+            
+            selection = Console.ReadLine();
+            while (selection != max.chara)
+            {
+                Console.WriteLine("Choose a character!");
+                selection = Console.ReadLine();
+            }
+            
+            
+                mLevelUp();
+            
+            
+
+
+
+
+
+            //level up methods//
+            void intro()
+            {
+                Console.WriteLine($"Input NAME \n Tao\n Max\n Ken\n Mae\n Zylo");
+
+                selection = Console.ReadLine();
+                while (selection != max.chara)
+                {
+                    Console.WriteLine("Choose a character!");
+                    selection = Console.ReadLine();
+                }
+
+
+                mLevelUp();
+            }
+          
+            void mLevelUp()
+            {
+                max.chara = "Max";
+
+                Console.WriteLine($"\n{max.chara}");
+                Console.WriteLine($"{max.characterClass}");
+                Console.WriteLine($"Level: {max.level}");
+                Console.WriteLine($"Attack: {max.attack}");
+                Console.WriteLine($"Defense: {max.defense}");
+                Console.WriteLine($"Agility: {max.agility}");
+                Console.WriteLine($"HP: {max.hp}");
+                Console.WriteLine($"MP: {max.mp}");
+
+                Console.WriteLine("Level Up? (y/n)");
+
+                string yn = Console.ReadLine();
+                while (yn == "y")
+                {
+                    max.levelUp();
+
+                    string yn2 = Console.ReadLine();
+
+                    if (yn2 == "n")
+                    {
+                        Console.Write("Press 'Enter' to return to the Character Selection Screen");
+                        Console.ReadLine();
+                        intro();
+
+                    }
+                    else if (yn2 == "y")
+                    {
+                        max.levelUp();
+                    }
+                    else
+                    {
+                        Console.Write("Press 'Enter' to return to the Character Selection Screen");
+                        Console.ReadLine();
+                        intro();
+                    }
+                }  
+                
+                
+                    
+                
+            }
+        }
+            
+    }
+}

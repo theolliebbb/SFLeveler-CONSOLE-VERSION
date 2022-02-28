@@ -1,0 +1,4 @@
+/Users/mac/Projects/ShiningForceLeveler/ShiningForceLeveler/proj/ShiningForceLeveler.dll
+/Users/mac/Projects/ShiningForceLeveler/ShiningForceLeveler/proj/ShiningForceLeveler.deps.json
+/Users/mac/Projects/ShiningForceLeveler/ShiningForceLeveler/proj/ShiningForceLeveler.runtimeconfig.json
+/Users/mac/Projects/ShiningForceLeveler/ShiningForceLeveler/proj/ShiningForceLeveler.pdb

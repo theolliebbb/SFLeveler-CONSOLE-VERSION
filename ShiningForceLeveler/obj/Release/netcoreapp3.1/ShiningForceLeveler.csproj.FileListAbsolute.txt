@@ -1,0 +1,12 @@
+/Users/mac/Projects/ShiningForceLeveler/ShiningForceLeveler/bin/Release/netcoreapp3.1/ShiningForceLeveler.deps.json
+/Users/mac/Projects/ShiningForceLeveler/ShiningForceLeveler/bin/Release/netcoreapp3.1/ShiningForceLeveler.runtimeconfig.json
+/Users/mac/Projects/ShiningForceLeveler/ShiningForceLeveler/bin/Release/netcoreapp3.1/ShiningForceLeveler.runtimeconfig.dev.json
+/Users/mac/Projects/ShiningForceLeveler/ShiningForceLeveler/bin/Release/netcoreapp3.1/ShiningForceLeveler.dll
+/Users/mac/Projects/ShiningForceLeveler/ShiningForceLeveler/bin/Release/netcoreapp3.1/ShiningForceLeveler.pdb
+/Users/mac/Projects/ShiningForceLeveler/ShiningForceLeveler/obj/Release/netcoreapp3.1/ShiningForceLeveler.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Projects/ShiningForceLeveler/ShiningForceLeveler/obj/Release/netcoreapp3.1/ShiningForceLeveler.AssemblyInfoInputs.cache
+/Users/mac/Projects/ShiningForceLeveler/ShiningForceLeveler/obj/Release/netcoreapp3.1/ShiningForceLeveler.AssemblyInfo.cs
+/Users/mac/Projects/ShiningForceLeveler/ShiningForceLeveler/obj/Release/netcoreapp3.1/ShiningForceLeveler.csproj.CoreCompileInputs.cache
+/Users/mac/Projects/ShiningForceLeveler/ShiningForceLeveler/obj/Release/netcoreapp3.1/ShiningForceLeveler.dll
+/Users/mac/Projects/ShiningForceLeveler/ShiningForceLeveler/obj/Release/netcoreapp3.1/ShiningForceLeveler.pdb
+/Users/mac/Projects/ShiningForceLeveler/ShiningForceLeveler/obj/Release/netcoreapp3.1/ShiningForceLeveler.genruntimeconfig.cache
